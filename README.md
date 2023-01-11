@@ -18,7 +18,7 @@ Project|Description
 ## Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ConnerGrice&repo=github-readme-stats&theme=dark&hide_border=true&bg_color=0D1117" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ConnerGrice&repo=github-readme-stats&theme=dark&hide_border=true&bg_color=0D1117&cardwidth=300" />
 </a>
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ConnerGrice&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" />
