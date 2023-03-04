@@ -1,6 +1,6 @@
 ### Hi, I'm Conner
 
-I am an amature (unoffical) Software developer and Data Scientist trying to extend my knowledge on everything that is data and computing. My offical education is in Theoretical Physics, where I acheived a BSc.  
+I am an amateur (unoffical) Software developer and Data Scientist trying to extend my knowledge on everything that is data and computing. My offical education is in Theoretical Physics, where I acheived a BSc.  
 
 ## Current Doings
 
