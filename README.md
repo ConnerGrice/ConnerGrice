@@ -7,7 +7,6 @@ I am an amateur (unoffical) Software developer and Data Scientist trying to exte
 Project|Description
 -------|-----------
 [Spotify-Extractor](https://github.com/ConnerGrice/Spotify-Extractor)| A program that will collect information from all your playlists on Spotify and generate infographics.
-[Geant4-Development](https://github.com/ConnerGrice/Geant4-Development)| A simple, lightweight Geant4 program I am using to develop work I am carrying out with the University of York.
 [Geant4-Obsidian-Learning-Resource](https://github.com/ConnerGrice/Geant4-Obsidian-Learning-Resource)| This is a collection of notes I have taken during my research into the Geant4 Simulation framework. It is still a WIP and it not comprehensive, However, I think it covers the absolute basics of a standard Geant4 program with some simple examples included. It is best viewed using Obsidian from the Canvas file Geant4-Overview.canvas.
 
 ## Current Dones
